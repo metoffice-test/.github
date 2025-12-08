@@ -1,2 +1,3 @@
 # .github
-I really shouldn't be able to create this.
+
+This repository allows setting various organisation wide templates and such.
